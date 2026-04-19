@@ -1,0 +1,638 @@
+fileFormatVersion: 2
+guid: b7f6ae1e5917acc4eb766b52bd22e64b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1024
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_pan_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 523
+        width: 113
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 24, y: 0, z: 27, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c6fd514f226ad46a1d4c673efedf9a
+      internalID: -1577430069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 523
+        width: 113
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 27, y: 0, z: 28, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeac4127c93f5634195843edde46aa06
+      internalID: 134594074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 523
+        width: 113
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 25, y: 0, z: 27, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b885ec65434df0b4082d9a47b8038811
+      internalID: 1609555576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 523
+        width: 113
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 25, y: 0, z: 30, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6820ac999f1f9440962d80fedf26039
+      internalID: 1097247907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 523
+        width: 113
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 26, y: 0, z: 28, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d1d372c361856409f211a6fcf1f468
+      internalID: 1830667696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 396
+        width: 113
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 23, y: 0, z: 28, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26bf0a3ff22efa40aebdcae143c1077
+      internalID: 163780551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 398
+        width: 113
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 24, y: 0, z: 29, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfe40cb956a23a4fa60e1cdba406f95
+      internalID: -1466179320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 398
+        width: 113
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 26, y: 0, z: 29, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d00bcb15e87ec43b1f7a8bfbdc779e
+      internalID: 1522685861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 397
+        width: 108
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 27, y: 0, z: 26, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfd9bd2b5bdb7e408d57e8e231f9c16
+      internalID: 282001867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_9
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 397
+        width: 108
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 23, y: 0, z: 25, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01585c6a1ab6fe548a7c28d26a5ce60e
+      internalID: -202897225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 269
+        width: 108
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 30, y: 0, z: 26, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9824acfb0f90e489aa6d43ccd903a7
+      internalID: 301627575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 268
+        width: 108
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 27, y: 0, z: 26, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5eb92c953b4b9409c577935445a766
+      internalID: -1511027852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 268
+        width: 108
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 26, y: 0, z: 26, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7630a32eae5bd4e9930d220f789103
+      internalID: 684307580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 269
+        width: 92
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 24, y: 0, z: 19, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962c3a7fe29ef2746a45a7f733ea55f6
+      internalID: 2127784310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_14
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 270
+        width: 95
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 25, y: 0, z: 19, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fe6de16657c4a459d314df68f9a376
+      internalID: 1569683009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 140
+        width: 93
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 22, y: 0, z: 19, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61363697593f034395f7cf0b36d80d2
+      internalID: -1713863369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 140
+        width: 89
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 23, y: 0, z: 19, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df19f8d4d3877b45a0dc393cfc17228
+      internalID: -5159070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_17
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 140
+        width: 93
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 18, y: 0, z: 20, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f948256f509c44bb99048b537902df
+      internalID: 913765410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_18
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 140
+        width: 94
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 20, y: 0, z: 23, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274bfb61a5cf3164b94c8fa145730024
+      internalID: 154580635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_19
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 137
+        width: 98
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 20, y: 0, z: 28, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c158eef35e06e4db8e5c66742944f0
+      internalID: -851881478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 11
+        width: 93
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 20, y: 0, z: 26, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c30aaad0528a1147809f6859515b96c
+      internalID: 2051376113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_pan_21
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 11
+        width: 87
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09}
+      border: {x: 16, y: 0, z: 19, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aabc62165f1b534da58f7d39c1c005d
+      internalID: -533093255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a0a00443b394abe4789df455404befd6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.09000000357627869},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      player_pan_0: -1577430069
+      player_pan_1: 134594074
+      player_pan_10: 301627575
+      player_pan_11: -1511027852
+      player_pan_12: 684307580
+      player_pan_13: 2127784310
+      player_pan_14: 1569683009
+      player_pan_15: -1713863369
+      player_pan_16: -5159070
+      player_pan_17: 913765410
+      player_pan_18: 154580635
+      player_pan_19: -851881478
+      player_pan_2: 1609555576
+      player_pan_20: 2051376113
+      player_pan_21: -533093255
+      player_pan_3: 1097247907
+      player_pan_4: 1830667696
+      player_pan_5: 163780551
+      player_pan_6: -1466179320
+      player_pan_7: 1522685861
+      player_pan_8: 282001867
+      player_pan_9: -202897225
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

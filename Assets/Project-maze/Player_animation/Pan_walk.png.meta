@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: 08907696247a3ad40bb41a2eebeb2316
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1024
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pan_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 111
+        height: 105
+      alignment: 9
+      pivot: {x: 0.50793386, y: 0.19805618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c82b4a305998e4ab057fbbec576547
+      internalID: 1450378174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 475
+        width: 110
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.18364324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef52315c92598fe4480a6fd7ac507fea
+      internalID: -805810031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 476
+        width: 111
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4682642, y: 0.19805618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43593f9de6e6c994d9c20b1190f1a330
+      internalID: -1387432230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 474
+        width: 112
+        height: 104
+      alignment: 9
+      pivot: {x: 0.50786316, y: 0.21208896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9e6fcc38c3ff845aecb56a71831752
+      internalID: -1629649455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 111
+        height: 103
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.20074344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4bcdd849b55d84880a320bf114c4ab
+      internalID: -2020823225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 349
+        width: 111
+        height: 104
+      alignment: 9
+      pivot: {x: 0.51586807, y: 0.18668512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b569bef3eb62cf40a0a849241a50fe2
+      internalID: -1157543297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 353
+        width: 111
+        height: 103
+      alignment: 9
+      pivot: {x: 0.50793403, y: 0.1921932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f44564fe98fb134288532197c22849d
+      internalID: -358697061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 348
+        width: 111
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22902504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a4c438d5e21e74183da72630afe780
+      internalID: -1305352920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 234
+        width: 103
+        height: 101
+      alignment: 9
+      pivot: {x: 0.51710033, y: 0.2122567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294791fda8523f24ebf5f333aa23d4d0
+      internalID: -163134484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 234
+        width: 103
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5171005, y: 0.19481802}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d972ea21482ca544bbf2f16df6ca46d6
+      internalID: -150347499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 234
+        width: 102
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5086341, y: 0.1860983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1ed4c54a7f9e442b12a1902f3bbaf3
+      internalID: -1627910735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_11
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 231
+        width: 105
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5251616, y: 0.23749322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449e65f1ed186b648b7f9b3e68574723
+      internalID: -1710103340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 117
+        width: 98
+        height: 100
+      alignment: 9
+      pivot: {x: 0.47304076, y: 0.15653901}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a11f782a329a04ab52454938383f2d
+      internalID: 537754600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_13
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 116
+        width: 98
+        height: 103
+      alignment: 9
+      pivot: {x: 0.48202717, y: 0.2092937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657c88a0aa15f9740a63656ccc450794
+      internalID: 1346725944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_14
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 117
+        width: 90
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4804294, y: 0.16534576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8545ea896b489b4198e90a421c70139
+      internalID: -1405152140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_15
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 116
+        width: 112
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5157258, y: 0.17509298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b0e1e5603c7674eac3f4139063e189
+      internalID: 1181865544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 7
+        width: 90
+        height: 103
+      alignment: 9
+      pivot: {x: 0.49021497, y: 0.1921936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ceb3a727bff37b41b69083a1a5b4256
+      internalID: 1042812302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 8
+        width: 89
+        height: 100
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.2974464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad38b19bd8c1774aa67c75c33c3322a
+      internalID: 1320808940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 7
+        width: 98
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5269595, y: 0.21784416}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eba3a476be947d4d8b60128341a904a
+      internalID: -459475468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pan_walk_19
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 8
+        width: 98
+        height: 100
+      alignment: 9
+      pivot: {x: 0.53594536, y: 0.21818618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292aaf69ef5f5364d808a9c13898b34b
+      internalID: -219351434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 79c685acb1a1ca947a67478dd24bada7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Pan_walk_0: 1450378174
+      Pan_walk_1: -805810031
+      Pan_walk_10: -1627910735
+      Pan_walk_11: -1710103340
+      Pan_walk_12: 537754600
+      Pan_walk_13: 1346725944
+      Pan_walk_14: -1405152140
+      Pan_walk_15: 1181865544
+      Pan_walk_16: 1042812302
+      Pan_walk_17: 1320808940
+      Pan_walk_18: -459475468
+      Pan_walk_19: -219351434
+      Pan_walk_2: -1387432230
+      Pan_walk_3: -1629649455
+      Pan_walk_4: -2020823225
+      Pan_walk_5: -1157543297
+      Pan_walk_6: -358697061
+      Pan_walk_7: -1305352920
+      Pan_walk_8: -163134484
+      Pan_walk_9: -150347499
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
